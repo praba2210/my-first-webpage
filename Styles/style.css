@@ -20,7 +20,11 @@ div > h1{
        font-size;42px;
        float: left; width: 116%;
 }
-#penmad{
-    border:0px;
-    float: right; width:30%; bottom: 50px;
+.follow
+{
+    float: left;
+}
+.penguin
+{
+    float: right;
 }
